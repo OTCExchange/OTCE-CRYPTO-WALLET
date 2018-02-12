@@ -74,13 +74,3 @@ Please check out `test` folder
 
 Please check out [./test](./test) folder for more usage examples.
 
-## Need help or integration?
-
-If you need a help or integration with your sytem, please contact us at [blockstarter.co](http://blockstarter.co)
-
-Support
-
-```
-a.stegno@gmail.com
-leksandr.siman@gmail.com 
-```
