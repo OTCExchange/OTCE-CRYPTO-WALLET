@@ -2,7 +2,7 @@
 
 How to launch ICO? This is tool for it.
 
-Examples of successful ICO: [http://blockstarter.co](http://blockstarter.co)
+Examples of successful ICO: [https://otcexchange.trade](https://otcexchange.trade)
 
 
 Install 
